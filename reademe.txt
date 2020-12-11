@@ -1,0 +1,47 @@
+常见的也就是下面这些字典了，还是很全面了。
+
+参数Fuzz字典
+
+Xss Fuzz字典
+
+用户名字典
+
+密码字典
+
+目录字典
+
+sql-fuzz字典
+
+ssrf-fuzz字典
+
+XXE字典
+
+ctf字典
+
+Api字典
+
+路由器后台字典
+
+文件后缀Fuzz
+
+js文件字典
+
+子域名字典
+
+开源项目
+
+ https://github.com/danielmiessler/SecLists
+这个项目包含的内容比较广，不单单只是字典，还有一些shell，更新还是挺频繁的。
+在圈内知名度挺高毕竟是拥26.5k star的项目
+
+https://github.com/TheKingOfDuck/fuzzDicts
+这个是咱们国内的项目，挺香的一个项目。
+
+https://github.com/fuzzdb-project/fuzzdb
+这个项目主要是用来做fuzz
+
+https://github.com/rootphantomer/Blasting_dictionary
+这个项目有主要是一堆密码，就是有点老，也还可以
+
+https://github.com/swisskyrepo/PayloadsAllTheThings
+这个也主要是用来做fuzz
