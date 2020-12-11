@@ -13,3 +13,5 @@ https://github.com/daviddias/node-dirbuster
 https://github.com/enciphers/Wordlists
 
 https://gist.github.com/Sjord/5e8f06c3734c1a1129c729c4d28a07e7
+
+https://www.somd5.com/download/dict/
